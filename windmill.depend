@@ -257,3 +257,10 @@
 	<unistd.h>
 	<windows.h>
 
+1562689840 source:f:\cg-project-nature-countryroad\main.cpp
+	<GL/gl.h>
+	<GL/glut.h>
+	<math.h>
+	<unistd.h>
+	<windows.h>
+
